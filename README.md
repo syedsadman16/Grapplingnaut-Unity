@@ -1,14 +1,13 @@
 
 
 <p align="center"> 
-  <img src="![Imgur Image](https://imgur.com/a/dJ7X355.jpg)" alt="Grapplingnaut Banner" width="80px" height="80px">
+    <img src="https://user-images.githubusercontent.com/19740274/119384622-fcf39100-bc92-11eb-928b-f2e9b2aded06.jpg"/>
 </p>
-<h1 align="center"> Grapplingnaut  </h1>
 <h3 align="center"> Senior Design: Game Development </h3>
 <h5 align="center"> Project 1 - Spring 2021 </h5>
 
 <p align="center"> 
-  <img src="Scenes.gif" alt="Animated gif pacman game" height="282px" width="637">
+  <img src="Scenes.gif" alt="Animated gif pacman game">
 </p>
 
 
@@ -34,11 +33,12 @@ The game can be found on OneDrive [Download the Game here!](https://ccnymailcuny
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Quick Gameplay
+## Gameplay Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bLS_b4ALFPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text for your video](https://img.youtube.com/vi/bLS_b4ALFPA/0.jpg)](https://www.youtube.com/embed/bLS_b4ALFPA)
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 ## Contributors
